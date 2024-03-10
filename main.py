@@ -1,5 +1,3 @@
-import pandas
-import numpy
 
 
 def main():
@@ -9,6 +7,16 @@ def main():
 
     # Create a dataframe
 
+
+
+    # Create a new column in the dataframe
+
+
+def create_dataframe():
+    pass
+
+def create_new_column():
+    pass
 
 if __name__ == "__main__":
     main()
