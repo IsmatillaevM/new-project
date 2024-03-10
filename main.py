@@ -18,6 +18,20 @@ def create_dataframe():
 def create_new_column():
     pass
 
+def create_new_row():
+    pass
+
+def create_new_dataframe():
+    pass
+
+def create_new_column():
+
+    pass
+
+def create_new_row():
+
+    pass
+    
 if __name__ == "__main__":
     main()
 
