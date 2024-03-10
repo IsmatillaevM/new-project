@@ -31,7 +31,11 @@ def create_new_column():
 def create_new_row():
 
     pass
-    
+
+
+def plus(a, b):
+    return a + b
+
 if __name__ == "__main__":
     main()
 
